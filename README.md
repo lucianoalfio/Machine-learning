@@ -1,2 +1,4 @@
 # Machine-learning
-Naive Bayes algorithm using Scikit learn python library
+Algorithm using Scikit learn python library
+* Classification
+* Cluster
