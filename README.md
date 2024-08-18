@@ -1,2 +1,2 @@
 # Machine-learning
-Naive Bayes algorithm
+Naive Bayes algorithm using Scikit learn python library
